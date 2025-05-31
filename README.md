@@ -46,3 +46,6 @@ JavaScript: Handles API integration, data processing, and DOM updates.
 Chart.js: Renders interactive weather charts dynamically.
 
 OpenWeatherMap API: Provides current and forecast weather data.
+
+# OUTPUT
+<img width="1296" alt="Image" src="https://github.com/user-attachments/assets/63b69c73-988d-4002-86c0-414ef84ed531" />
